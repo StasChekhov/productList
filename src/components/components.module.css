@@ -1,0 +1,34 @@
+/* Modal styles */
+.header {
+    background-color: beige;
+    height: 50px;
+    text-align: center;
+
+    
+}
+.form {
+    padding: 15px;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.label {
+    margin: 0 5px;
+}
+.span {
+    margin: 0 5px;
+}
+
+/* ProductsList styles */
+
+.listProducts_li {
+    margin-bottom: 7px;
+}
+
+/* ProductsItem styles  */
+
+.container { 
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
